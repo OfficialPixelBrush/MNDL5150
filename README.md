@@ -59,7 +59,7 @@ Screenshots
 
 CGA Composite Fullsreen Render
 
-![Monochrome CGA Fullscreen Render](https://user-images.githubusercontent.com/23031327/128098333-7d350d5f-46dd-4c9c-a4ad-ddf16886f3bf.png)
+![Monochrome CGA Fullscreen Render](https://user-images.githubusercontent.com/23031327/128101287-bdf43e6b-aeea-4dab-8fe2-5a53a89c08a9.png)
  
 Monochrome CGA Fullsreen Render
 
