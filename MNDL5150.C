@@ -348,7 +348,6 @@ int main() {
 	printf("  __     __  __\n");
 	printf("  \\_  \\  \\_  \\ \\\n");
 	printf("   _\\  \\  _\\  \\_\\\n");
-	 
 	
 	printf("\nMandelbrot Set (for the IBM 5150)\n");
 	printf("Written by PixelBrushArt (2021)\n");
