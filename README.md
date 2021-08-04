@@ -55,14 +55,14 @@ Controls
 Screenshots
 -----------
 
-![Monochrome CGA Fullsreen Render](https://user-images.githubusercontent.com/23031327/128101835-78e4951f-8a84-4fc9-8e2b-bac878edbfd4.png)
+![Monochrome CGA Fullscreen Render](https://user-images.githubusercontent.com/23031327/128101835-78e4951f-8a84-4fc9-8e2b-bac878edbfd4.png)
  
-Monochrome CGA Fullsreen Render
+Monochrome CGA Fullscreen Render
 
 
-![CGA Composite Fullsreen Render](https://user-images.githubusercontent.com/23031327/128101170-d4aaca9b-ab67-44da-86e7-68068ef9ce11.png)
+![CGA Composite Fullscreen Render](https://user-images.githubusercontent.com/23031327/128101170-d4aaca9b-ab67-44da-86e7-68068ef9ce11.png)
 
-CGA Composite Fullsreen Render
+CGA Composite Fullscreen Render
 
 
 ![Modern CGA Render 1](https://user-images.githubusercontent.com/23031327/128101708-48190fb6-8430-427b-b603-06a05ecf4621.png)
