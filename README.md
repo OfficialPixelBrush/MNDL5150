@@ -1,4 +1,12 @@
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Last Commit](https://img.shields.io/github/last-commit/OfficialPixelBrush/MNDL5150)
+![Lines of Code](https://img.shields.io/tokei/lines/github/OfficialPixelBrush/MNDL5150)
+<!--[![Latest Release Size](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://gitHub.com/OfficialPixelBrush/MNDL5150/releases/)-->
+
+
+
+[Contributing to the Project](https://github.com/OfficialPixelBrush/MNDL5150/blob/d4b60b9077ab0bdaaac7e6c0813dbf58165989c1/CONTRIBUTING.md)
+
 MNDL5150
 =======
 
